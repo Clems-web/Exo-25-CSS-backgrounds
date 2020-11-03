@@ -1,0 +1,38 @@
+div {
+    width: 200px;
+    height: 200px;
+    box-shadow: 8px 6px 10px black;
+}
+ .image {
+     max-height: 200px;
+     max-width: 200px;
+ }
+
+ img {
+     max-width: 200px;
+     max-height: 200px;
+ }
+
+ .bordure1 {
+     border: 5px dashed black;
+     border-radius: 15px;
+ }
+
+ .bordure2 {
+     border: 5px dotted greenyellow;
+     border-radius: 15px;
+ }
+
+ .bordure3 {
+     border: 5px solid rebeccapurple;
+     border-radius: 15px;
+ }
+
+ .bordure4 {
+     border: 10px double orchid;
+     border-radius: 15px;
+ }
+
+ body {
+     background-color: darkgrey;
+ }
